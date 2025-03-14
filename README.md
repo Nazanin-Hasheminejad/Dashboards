@@ -49,7 +49,7 @@ This **Power BI dashboard** was developed as part of the **PwC Power BI Certific
 ---
 
 ## 📌 Dashboard Preview  
-![PhoneNow Call Center Dashboard](./dashboard_screenshot.png)  
+[PhoneNow - Call Center.pdf](https://github.com/user-attachments/files/19253873/PhoneNow.-.Call.Center.pdf)
 
 ---
 
