@@ -65,7 +65,7 @@ This Power BI Customer Retention Dashboard was developed as part of the PwC Powe
 
 ## 📌  **Dashboard Preview**  
 
-[![Customer Retention Dashboard](./dashboard_screenshot.png)  ](https://github.com/Nazanin-Hasheminejad/Dashboards/issues/3#issue-2922549178)
+[[![Customer Retention Dashboard](./dashboard_screenshot.png)  ](https://github.com/Nazanin-Hasheminejad/Dashboards/issues/3#issue-2922549178)](https://github.com/Nazanin-[Hasheminejad/Dashboards/issues/3#issue-2922549178)](https://github.com/Nazanin-Hasheminejad/Dashboards/issues/3#issue-2922549178)
 
 ---
 
