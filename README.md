@@ -59,7 +59,7 @@ To address this, the dashboard provides **interactive insights** into workforce 
 ---
 
 ## 📌 **Dashboard Preview**  
-![Employee Diversity Dashboard](./dashboard_screenshot.png)  
+![Image](https://github.com/user-attachments/assets/f0770787-f068-43c2-ad71-d4e0f9076888)
 
 ---
 
