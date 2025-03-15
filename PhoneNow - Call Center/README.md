@@ -61,14 +61,7 @@ This **Power BI dashboard** was developed as part of the **PwC Power BI Certific
 3. Explore the **interactive visuals, filters, and Q&A section** for insights.  
 4. Modify the **DAX formulas or Power Query** to suit additional data sources if needed.  
 
----
 
-## 🔗 Connect with Me  
-If you have any feedback, questions, or collaboration ideas, feel free to reach out:  
-
-📧 **Email:** hasheminejad.nazanin@gmail.com
-💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/nazanin-hasheminejad/)  
-📂 **GitHub:** [GitHub Profile](https://github.com/Nazanin-Hasheminejad)  
 
 ---
 
