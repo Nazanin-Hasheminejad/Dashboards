@@ -1,5 +1,10 @@
 # PhoneNow Call Center Dashboard - Power BI Report  
 
+## 📌 Dashboard Preview  
+[PhoneNow - Call Center.pdf](https://github.com/user-attachments/files/19253873/PhoneNow.-.Call.Center.pdf)
+![Image](https://github.com/user-attachments/assets/686095b8-57cf-4a4f-af79-017ce0641f93)
+
+---
 ## 📌 Project Overview  
 This **Power BI dashboard** was developed as part of the **PwC Power BI Certification Course** on **Forage**. It provides an **interactive and data-driven analysis** of PhoneNow’s **call center performance**, enabling **management and stakeholders** to monitor key metrics, identify trends, and make informed decisions to improve customer service efficiency.
 
@@ -48,11 +53,6 @@ This **Power BI dashboard** was developed as part of the **PwC Power BI Certific
 
 ---
 
-## 📌 Dashboard Preview  
-[PhoneNow - Call Center.pdf](https://github.com/user-attachments/files/19253873/PhoneNow.-.Call.Center.pdf)
-![Image](https://github.com/user-attachments/assets/686095b8-57cf-4a4f-af79-017ce0641f93)
-
----
 
 ## 📌 How to Use This Project  
 1. **Download the Power BI file (`.pbix`)** from the repository.  
