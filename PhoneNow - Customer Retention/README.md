@@ -1,5 +1,9 @@
 # PhoneNow Customer Retention Dashboard - Power BI Report  
 
+## 📌  **Dashboard Preview**  
+![Image](https://github.com/user-attachments/assets/757c7b05-2ffe-4e3e-9b23-7acc5b133957)
+---
+
 ## 📌 Project Overview  
 This Power BI Customer Retention Dashboard was developed as part of the PwC Power BI Certification Course on Forage. It provides an interactive and data-driven analysis of customer churn for PhoneNow, enabling the Retention Manager to identify at-risk customers and implement proactive retention strategies.
 
@@ -63,9 +67,7 @@ This Power BI Customer Retention Dashboard was developed as part of the PwC Powe
 
 ---
 
-## 📌  **Dashboard Preview**  
-![Image](https://github.com/user-attachments/assets/757c7b05-2ffe-4e3e-9b23-7acc5b133957)
----
+
 
 ## 📌 **How to Use This Project**  
 
