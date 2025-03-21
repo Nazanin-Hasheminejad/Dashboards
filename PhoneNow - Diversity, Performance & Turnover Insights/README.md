@@ -1,5 +1,10 @@
 # Employee Diversity, Performance & Turnover Insights - Power BI Dashboard  
 
+## 📌 **Dashboard Preview**  
+![Image](https://github.com/user-attachments/assets/f0770787-f068-43c2-ad71-d4e0f9076888)
+
+---
+
 ## 📌 Project Overview  
 This **Power BI dashboard** was developed as part of the **PwC Power BI Certification Course** on **Forage**. 
 
@@ -58,10 +63,6 @@ To address this, the dashboard provides **interactive insights** into workforce 
 
 ---
 
-## 📌 **Dashboard Preview**  
-![Image](https://github.com/user-attachments/assets/f0770787-f068-43c2-ad71-d4e0f9076888)
-
----
 
 ## 📌 **How to Use This Project**  
 

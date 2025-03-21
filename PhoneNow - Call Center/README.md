@@ -1,5 +1,10 @@
 # PhoneNow Call Center Dashboard - Power BI Report  
 
+## 📌 Dashboard Preview  
+[PhoneNow - Call Center.pdf](https://github.com/user-attachments/files/19253873/PhoneNow.-.Call.Center.pdf)
+![Image](https://github.com/user-attachments/assets/686095b8-57cf-4a4f-af79-017ce0641f93)
+
+---
 ## 📌 Project Overview  
 This **Power BI dashboard** was developed as part of the **PwC Power BI Certification Course** on **Forage**. It provides an **interactive and data-driven analysis** of PhoneNow’s **call center performance**, enabling **management and stakeholders** to monitor key metrics, identify trends, and make informed decisions to improve customer service efficiency.
 
@@ -48,11 +53,6 @@ This **Power BI dashboard** was developed as part of the **PwC Power BI Certific
 
 ---
 
-## 📌 Dashboard Preview  
-[PhoneNow - Call Center.pdf](https://github.com/user-attachments/files/19253873/PhoneNow.-.Call.Center.pdf)
-![Image](https://github.com/user-attachments/assets/686095b8-57cf-4a4f-af79-017ce0641f93)
-
----
 
 ## 📌 How to Use This Project  
 1. **Download the Power BI file (`.pbix`)** from the repository.  
@@ -61,14 +61,7 @@ This **Power BI dashboard** was developed as part of the **PwC Power BI Certific
 3. Explore the **interactive visuals, filters, and Q&A section** for insights.  
 4. Modify the **DAX formulas or Power Query** to suit additional data sources if needed.  
 
----
 
-## 🔗 Connect with Me  
-If you have any feedback, questions, or collaboration ideas, feel free to reach out:  
-
-📧 **Email:** hasheminejad.nazanin@gmail.com
-💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/nazanin-hasheminejad/)  
-📂 **GitHub:** [GitHub Profile](https://github.com/Nazanin-Hasheminejad)  
 
 ---
 
