@@ -3,7 +3,7 @@
 ## 📌 Dashboard Preview
 Here is a snapshot of the **interactive Power BI dashboard**:
 
-![Dashboard Preview](./mnt/data/image.png)  
+![Image](https://github.com/user-attachments/assets/1c0ae594-fd75-44e7-bed0-efb36218c458)
 ---
 ## 📌 Project Overview  
 This **Power BI dashboard** was developed as a self-assigned project using the **Healthcare Insurance dataset** from **Kaggle**. The dashboard provides an **interactive and data-driven analysis** of:
